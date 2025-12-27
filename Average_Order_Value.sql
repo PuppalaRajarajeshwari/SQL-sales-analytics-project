@@ -1,0 +1,1 @@
+select AVG(total_amount) as avg_order_value from orders;
